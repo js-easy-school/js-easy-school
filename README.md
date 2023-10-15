@@ -18,7 +18,7 @@
 | | ![Solid.js](https://img.shields.io/badge/solid.js-ECBF6A?style=for-the-badge&logo=solid.js&logoColor=white) | | | | |
 
 <details>
-  <summary>Знаю, понимаю</summary>
+  <summary>Понимаю</summary>
   
   - [Разбираемся в сортах реактивности](https://habr.com/ru/companies/timeweb/articles/586450/)
 </details>
