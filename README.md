@@ -1,10 +1,6 @@
 <p align="center">
-  <table width="100%">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-easy-school&theme=dark&langs_count=10&astro&layout=compact" alt="Top languages used by js-easy-school" width="100%" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=dark" alt="Anurag's GitHub stats-Dark" width="100%" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-easy-school&theme=dark&langs_count=10&astro&layout=compact" alt="Top languages used by js-easy-school" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=dark" alt="Anurag's GitHub stats-Dark" width="100%" />
 </p>
 
 | Frontend        | Frameworks | Package Managers | Bundlers         | Tools          | Mobile          |
