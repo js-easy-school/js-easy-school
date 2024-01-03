@@ -1,10 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-easy-school&theme=dark&langs_count=10&layout=compact" alt="Top languages used by js-easy-school" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=dark" alt="js-easy-school's GitHub stats" width="100%" />
-</p>
+</div>
 
 | Frontend        | Frameworks | Package Managers | Bundlers         | Tools          | Mobile          |
 | --------------- | ------------ | ---------------- | ---------------- | -------------- | --------------- |
