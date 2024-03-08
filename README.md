@@ -5,9 +5,6 @@
     </tr>
 </table>
 
-### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=dark)
-
 | Frontend        | Frameworks | Package Managers | Bundlers         | Tools          | Data Base          |
 | --------------- | ------------ | ---------------- | ---------------- | -------------- | --------------- |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
