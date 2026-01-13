@@ -64,10 +64,6 @@ Modern fan website for French singer Alizée - Gift project with elegant design 
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=js-easy-school&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+[![Visitors today](https://api.visitorbadge.io/api/daily?path=js-easy-school&label=Visitors%20today&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=js-easy-school)
 
-<div align="center">
-  <i>⭐️ From [js-easy-school](https://github.com/js-easy-school)</i>
-</div>
+⭐ From [js-easy-school](https://github.com/js-easy-school)
