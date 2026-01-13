@@ -6,10 +6,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-easy-school&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+Card widgets sometimes go down (Vercel/Heroku rate limits/outages). These links always work:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=js-easy-school&theme=tokyonight&hide_border=true)
+- Profile: https://github.com/js-easy-school
+- Repositories: https://github.com/js-easy-school?tab=repositories
+- Contributions: https://github.com/js-easy-school?tab=overview
 
 ---
 
