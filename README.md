@@ -33,6 +33,14 @@ Frontend developer focused on modern web applications, clean code, and user expe
 
 ## Projects
 
+### [Portfolio](https://mazunin-design.com)
+
+Personal portfolio website showcasing web design and frontend development skills.
+
+`HTML5` `CSS3` `JavaScript`
+
+[🔗 Live Demo](https://mazunin-design.com) · [💻 Source](https://github.com/js-easy-school/portfolio)
+
 ### [Alizée Fan Website](https://js-easy-school.github.io/alizee-fan-website/)
 
 Professional tribute website with modern responsive design.
