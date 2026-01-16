@@ -1,6 +1,6 @@
 <div align="center">
 
-# Andrew Mazunin
+# Andrey Mazunin
 
 **Web Designer & Frontend Developer**
 
